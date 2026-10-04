@@ -1,0 +1,13 @@
+# Arduino / Processing local files
+.DS_Store
+Thumbs.db
+*.class
+*.log
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Local build / generated output
+build/
+out/
